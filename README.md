@@ -1,0 +1,1 @@
+This repository contains code for training and evaluating deep learning models to classify pet facial expressions. The dataset used is available on Kaggle and includes images categorized into different expressions such as "Happy", "Sad", "Angry", and "Other".
